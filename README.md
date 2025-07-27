@@ -1,3 +1,4 @@
+Кароч тут реализована регистрация и чат с друзьями (server.js это апи) адресс апи прописывается в "src\Gml.Launcher\Core\SystemConstants.cs"
 ![Frame 39263](https://github.com/user-attachments/assets/d69fae32-4339-4239-8950-133a89763a82)
 
 Gml (GamerVII Minecraft Launcher)
